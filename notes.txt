@@ -1,0 +1,14 @@
+# 150518 #
+1. Downloaded images for kingdom, seaside, and intrigue sets.
+2. Image properties
+
+	Pixel Dimensions 296px x 473px
+	Document Size 4.111” x 6.569”
+	Resolution 72px/in
+	Resample Image: Bicubic (best for smooth gradients)
+	Size 45KB
+
+	Canvas Size 4.111” x 6.569”
+
+3. Thumbnails show discrepancy between downloaded card images vs modified card images.  On the image thumbnail’s, there’s a white border that’s present on downloaded versions but missing on modified versions of the card image.
+4. Built table of card attributes in csv file.
